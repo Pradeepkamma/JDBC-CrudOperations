@@ -1,4 +1,4 @@
-# JDBC-CrudOperations
+# JDBC-CrudOperation
 
 This repository demonstrates **CRUD (Create, Read, Update, Delete) operations** in Java using JDBC. It includes three different implementations to handle database connections and queries efficiently.  
 
