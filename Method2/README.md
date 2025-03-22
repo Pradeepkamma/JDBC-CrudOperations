@@ -1,6 +1,6 @@
 
 
-# JDBC-CrudOperationsUsingFinall
+# JDBC-CrudOperationsUsingFinally
 
 ## Overview
 This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations in Java using JDBC and MySQL. It ensures proper resource handling by closing connections in the `finally` block.
