@@ -1,6 +1,6 @@
 ### **README.md**  
 
-# **JDBC CRUD Operations using Methods**  
+# **JDBC CRUD Operations using Methods** 
 
 This project demonstrates **CRUD (Create, Read, Update, Delete) operations** in Java using JDBC and MySQL. The operations are implemented using **separate methods** for better reusability and code organization.  
 
